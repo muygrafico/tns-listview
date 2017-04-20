@@ -1,0 +1,1 @@
+/Users/nicobytes/course-ionic2/tnslistview/platforms/android/src/main/assets/app/app.component.js

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/nicobytes/course-ionic2/tnslistview/platforms/android/build/intermediates/exploded-aar/tnslistview/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="/Users/nicobytes/course-ionic2/tnslistview/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_db8ae218c1407fef5d34a09f42b51f17ebb04643.jar" />
+    </item>
+    <item
+        jar="/Users/nicobytes/course-ionic2/tnslistview/platforms/android/build/intermediates/exploded-aar/tnslistview/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="632bf39700c28ba66c117628dab343126ef89551">
+        <dex dex="/Users/nicobytes/course-ionic2/tnslistview/platforms/android/build/intermediates/pre-dexed/F0/debug/tnslistview-runtime-unspecified_971b012b350e506073a0872aa6d41fd40d898da8.jar" />
+    </item>
+    <item
+        jar="/Users/nicobytes/course-ionic2/tnslistview/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
+        <dex dex="/Users/nicobytes/course-ionic2/tnslistview/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_32f164bd564836c48acb96fa6bc8b4df4072d034.jar" />
+    </item>
+    <item
+        jar="/Users/nicobytes/course-ionic2/tnslistview/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="/Users/nicobytes/course-ionic2/tnslistview/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-25.2.0_6e01c81397e80226c82f9206c6111dc3ca7a875d.jar" />
+    </item>
+    <item
+        jar="/Users/nicobytes/course-ionic2/tnslistview/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="/Users/nicobytes/course-ionic2/tnslistview/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-25.2.0_2ada12cf40a635acb59cf0afebd0511e0293e0e0.jar" />
+    </item>
+    <item
+        jar="/Users/nicobytes/course-ionic2/tnslistview/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/nicobytes/course-ionic2/tnslistview/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-25.2.0_f951bb2a724e17f3d088151061801954861c3890.jar" />
+    </item>
+    <item
+        jar="/Users/nicobytes/course-ionic2/tnslistview/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/nicobytes/course-ionic2/tnslistview/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-25.2.0_9cd5e410a9f15267cececbdbfe192254b9df9490.jar" />
+    </item>
+    <item
+        jar="/Users/nicobytes/course-ionic2/tnslistview/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="/Users/nicobytes/course-ionic2/tnslistview/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-25.2.0_20d1d1f3b260999100eda6ba365c501a9c1e9bb3.jar" />
+    </item>
+    <item
+        jar="/Users/nicobytes/course-ionic2/tnslistview/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/nicobytes/course-ionic2/tnslistview/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-25.2.0_29be31c21bb5a4aa2afa1e7c8d377bc4f217cad5.jar" />
+    </item>
+    <item
+        jar="/Users/nicobytes/course-ionic2/tnslistview/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="/Users/nicobytes/course-ionic2/tnslistview/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-25.2.0_63bbeb2baf7374bcd964443ae2ee424da807cff1.jar" />
+    </item>
+    <item
+        jar="/Users/nicobytes/course-ionic2/tnslistview/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/nicobytes/course-ionic2/tnslistview/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-25.2.0_7bedfe99df3646c7d502d9097e1d82cead97b728.jar" />
+    </item>
+    <item
+        jar="/Users/nicobytes/course-ionic2/tnslistview/platforms/android/build/intermediates/exploded-aar/com.android.support/design/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="/Users/nicobytes/course-ionic2/tnslistview/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-25.2.0_199033d1cd7f5bca6cdb5a64414f77d88528e256.jar" />
+    </item>
+    <item
+        jar="/Users/nicobytes/course-ionic2/tnslistview/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/nicobytes/course-ionic2/tnslistview/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-25.2.0_b92d1f3d39d8b646a8095ee4e12c47d2e05c3cdb.jar" />
+    </item>
+    <item
+        jar="/Users/nicobytes/course-ionic2/tnslistview/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="/Users/nicobytes/course-ionic2/tnslistview/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-transition-25.2.0_75c32c5bf6c1768ea36433be59285e3c89810acc.jar" />
+    </item>
+    <item
+        jar="/Users/nicobytes/course-ionic2/tnslistview/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/nicobytes/course-ionic2/tnslistview/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-25.2.0_f106f5a7c501379540f4c8a0a6a5a73b4f6e84de.jar" />
+    </item>
+    <item
+        jar="/Users/nicobytes/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/nicobytes/course-ionic2/tnslistview/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-25.2.0_ad36bbd9cd66fa927c05cb7f027a1734431e1591.jar" />
+    </item>
+
+</items>

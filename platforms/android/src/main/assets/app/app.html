@@ -1,0 +1,12 @@
+<ActionBar title="5000 items" class="action-bar"></ActionBar>
+<ListView [items]="photos">
+  <template let-photo="item">
+    <StackLayout>
+        <GridLayout columns="auto, *, auto" rows="auto, 25" verticalAlignment="top" >
+          <Image [src]="photo.thumbnailUrl" rowSpan="2" width="60" height="60" margin="5" verticalAlignment="top"></Image>
+          <Label [text]="photo.title" textWrap="true" col="1" colSpan="2" minHeight="50" fontSize="18" margin="3"></Label>
+          <Label [text]="photo.url" col="1" row="1" fontSize="14" horizontalAlignment="left" verticalAlignment="bottom" margin="3"></Label>
+      </GridLayout>
+    </StackLayout>
+  </template>
+</ListView>
